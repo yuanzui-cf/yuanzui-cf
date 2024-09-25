@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @yuanzui-cf
-- 👀 I’m interested in Computer.
-- 🌱 I’m currently learning JavaScript.
-- 📫 You can call me on email `grassblogstu@gmail.com`
+👋 Hey there! I'm Leo Jia (@yuanzui_cf)
+
+🏫 I'm a high school junior
+
+👀 I love TypeScript, Lit
+
+🌱 I'm diving into Golang,  Rust,  TypeScript, C++
+
+🎮 When I'm not coding, you'll find me gaming - Counter-Strike 2, Garry's Mod, and Minecraft are my go-to. If I'm free, we could team up!
+
+📫 Feel free to hit me up via email at <a href="mailto:grassblogstu@gmail.com">grassblogstu@gmail.com</a> or on <a href="https://t.me/yuanzui_cf">Telegram</a>
 
 ![](https://count.getloli.com/get/@yuanzui-cf?theme=gelbooru)
 
