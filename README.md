@@ -14,16 +14,7 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yuanzui-cf&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yuanzui-cf&show_icons=true&hide_border=false&count_private=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuanzui-cf&show_icons=true&hide_border=false&count_private=true&include_all_commits=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanzui-cf&layout=compact&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanzui-cf&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanzui-cf&layout=compact">
-</picture>
-<br />
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuanzui-cf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanzui-cf&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuanzui-cf&theme=github-compact&count_private=true)
