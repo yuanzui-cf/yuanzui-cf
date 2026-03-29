@@ -14,7 +14,7 @@
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuanzui-cf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanzui-cf&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="profile/stats.svg" alt="yuanzui-cf's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="profile/top-langs.svg" /></a> |
 | ------------- | ------------- |
 
 ![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuanzui-cf&theme=github-compact&count_private=true)
