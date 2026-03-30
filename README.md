@@ -17,4 +17,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="profile/stats.svg" alt="yuanzui-cf's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="profile/top-langs.svg" /></a> |
 | ------------- | ------------- |
 
-![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuanzui-cf&theme=github-compact&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="GitHub Contributions 3D Graph">
+</picture>
