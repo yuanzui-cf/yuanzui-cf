@@ -14,7 +14,7 @@
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="profile/stats.svg" alt="yuanzui-cf's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="profile/top-langs.svg" /></a> |
+| <img align="center" src="https://git-stats.goldbro.top/api?username=yuanzui-cf" alt="yuanzui-cf's github stats" /> | <img align="center" src="https://git-streak.goldbro.top/?user=yuanzui-cf" /> |
 | ------------- | ------------- |
 
 <picture>
